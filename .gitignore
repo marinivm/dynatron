@@ -1,0 +1,49 @@
+# Ignorar a pasta node_modules (para Angular)
+front/node_modules/
+
+# Ignorar a pasta dist (para Angular)
+front/dist/
+
+# Ignorar arquivos de configuração do editor (como o VSCode)
+.vscode/
+
+# Ignorar arquivos de log e temporários do sistema
+*.log
+*.tmp
+
+# Ignorar arquivos de compilação do Angular
+front/.angular/
+
+# Ignorar pacotes de dependência do npm
+front/package-lock.json
+front/package.json
+
+# Ignorar arquivos gerados pelo Angular CLI
+front/angular.json
+
+# Ignorar arquivos da pasta bin e obj (para C#)
+back/bin/
+back/obj/
+
+# Ignorar arquivos de configuração do Visual Studio
+back/.vs/
+back/*.user
+back/*.suo
+
+# Ignorar arquivos de compilação do .NET
+back/*.dll
+back/*.exe
+back/*.pdb
+
+# Ignorar arquivos de dependências do NuGet
+back/packages/
+
+# Ignorar arquivos temporários gerados pelo .NET
+back/*.userosscache
+back/*.suo
+
+# Ignorar a pasta de publicação do .NET
+back/Publish/
+
+# Ignorar arquivos gerados pelo Visual Studio Code
+back/.vscode/
