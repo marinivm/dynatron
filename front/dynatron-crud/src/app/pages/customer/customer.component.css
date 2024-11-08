@@ -1,0 +1,34 @@
+.mat-mdc-header-cell {
+    width: 23%;
+} 
+.page-control {
+    display: flex;
+    flex-direction: row;
+}
+
+.search-block {
+    width: 70%;
+}
+
+.add-button {
+    width: 30%;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.lastCreated {
+    background-color: rgb(168, 222, 224);
+}
+
+.lastUpdated {
+    background-color: rgb(247, 253, 166) !important;
+}
+
+.edit-icon {
+    cursor: pointer;
+    color: blue;
+}
+
+.table-field{
+    width: 200px;    
+}

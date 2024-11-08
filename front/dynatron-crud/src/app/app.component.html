@@ -1,0 +1,18 @@
+<mat-toolbar color="primary">
+  <div class="app-title">
+    <a class="title" href="/">{{ title }}</a>
+  </div>
+  <div class="toolbar-spacer"></div>
+</mat-toolbar>
+
+<mat-sidenav-container class="container">
+  <mat-sidenav mode="side" opened>    
+    <mat-nav-list>
+      <mat-list-item routerLinkActive="active-menu-item" routerLink="/customer">Customers</mat-list-item>
+    </mat-nav-list>
+  </mat-sidenav>
+
+  <mat-sidenav-content>    
+      <router-outlet></router-outlet>   
+  </mat-sidenav-content>
+</mat-sidenav-container>

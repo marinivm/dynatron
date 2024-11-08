@@ -1,0 +1,30 @@
+<div class="breadcrumb">
+  <a href="/customer">Customers</a> > New Customer
+</div>
+<div class="page-content">
+  <h3 class="title">
+    Fill in the form to add a new customer
+  </h3>
+  <form>
+    <mat-form-field appearance="outline">
+      <mat-label>First Name</mat-label>
+      <input matInput type="text" id="firstName" name="firstName" [(ngModel)]="customer.firstName" (input)="OnFieldInput()">
+    </mat-form-field>
+
+    <mat-form-field appearance="outline">
+      <mat-label>Last Name</mat-label>
+      <input matInput type="text" id="lastName" name="lastName"  [(ngModel)]="customer.lastName" (input)="OnFieldInput()">
+    </mat-form-field>
+
+    <mat-form-field appearance="outline">
+      <mat-label>Email</mat-label>
+      <input matInput type="email" id="emailtName" name="emailtName"  [(ngModel)]="customer.email" (input)="OnFieldInput()">
+    </mat-form-field>
+
+  </form>
+</div>
+<div class="page-control">
+  <button mat-raised-button color="accent" [disabled]="!isFormValid" (click)="OnSaveClick()">Create</button>
+  <button mat-raised-button (click)="OnCleanClick()">Clean form</button>
+  <button mat-raised-button (click)="router.navigate(['customer'])">Back</button>
+</div>

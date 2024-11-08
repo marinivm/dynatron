@@ -1,0 +1,16 @@
+C:\Users\vitor\OneDrive\Documentos\projetos\dynatron\back\Dynatron-CRUD\MigrationLib\bin\Debug\net8.0\MigrationLib.deps.json
+C:\Users\vitor\OneDrive\Documentos\projetos\dynatron\back\Dynatron-CRUD\MigrationLib\bin\Debug\net8.0\MigrationLib.dll
+C:\Users\vitor\OneDrive\Documentos\projetos\dynatron\back\Dynatron-CRUD\MigrationLib\bin\Debug\net8.0\MigrationLib.pdb
+C:\Users\vitor\OneDrive\Documentos\projetos\dynatron\back\Dynatron-CRUD\MigrationLib\obj\Debug\net8.0\MigrationLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Documentos\projetos\dynatron\back\Dynatron-CRUD\MigrationLib\obj\Debug\net8.0\MigrationLib.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Documentos\projetos\dynatron\back\Dynatron-CRUD\MigrationLib\obj\Debug\net8.0\MigrationLib.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Documentos\projetos\dynatron\back\Dynatron-CRUD\MigrationLib\obj\Debug\net8.0\MigrationLib.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Documentos\projetos\dynatron\back\Dynatron-CRUD\MigrationLib\obj\Debug\net8.0\MigrationLib.sourcelink.json
+C:\Users\vitor\OneDrive\Documentos\projetos\dynatron\back\Dynatron-CRUD\MigrationLib\obj\Debug\net8.0\MigrationLib.dll
+C:\Users\vitor\OneDrive\Documentos\projetos\dynatron\back\Dynatron-CRUD\MigrationLib\obj\Debug\net8.0\refint\MigrationLib.dll
+C:\Users\vitor\OneDrive\Documentos\projetos\dynatron\back\Dynatron-CRUD\MigrationLib\obj\Debug\net8.0\MigrationLib.pdb
+C:\Users\vitor\OneDrive\Documentos\projetos\dynatron\back\Dynatron-CRUD\MigrationLib\obj\Debug\net8.0\ref\MigrationLib.dll
+C:\Users\vitor\OneDrive\Documentos\projetos\dynatron\back\Dynatron-CRUD\MigrationLib\obj\Debug\net8.0\MigrationLib.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Documentos\projetos\dynatron\back\Dynatron-CRUD\MigrationLib\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\vitor\OneDrive\Documentos\projetos\dynatron\back\Dynatron-CRUD\MigrationLib\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\vitor\OneDrive\Documentos\projetos\dynatron\back\Dynatron-CRUD\MigrationLib\obj\Debug\net8.0\MigrationLib.csproj.CopyComplete
